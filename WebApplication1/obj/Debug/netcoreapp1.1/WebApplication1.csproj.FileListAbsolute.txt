@@ -1,0 +1,8 @@
+D:\WS\FEPAService\FengDev\Application\core\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.deps.json
+D:\WS\FEPAService\FengDev\Application\core\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.json
+D:\WS\FEPAService\FengDev\Application\core\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.dev.json
+D:\WS\FEPAService\FengDev\Application\core\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.dll
+D:\WS\FEPAService\FengDev\Application\core\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.pdb
+D:\WS\FEPAService\FengDev\Application\core\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.AssemblyInfo.cs
+D:\WS\FEPAService\FengDev\Application\core\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.dll
+D:\WS\FEPAService\FengDev\Application\core\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.pdb
